@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 50%;
+    height: 600px;
+    border: 1px solid green;
+    margin: auto;
+    position: relative;
+}
+.box{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    color: #ffff;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+    margin: auto;
+  
+}
