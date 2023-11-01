@@ -1,11 +1,18 @@
-body{
+/* body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+} */
+
+h1 {
+    float: right;
+    background-color: aqua;
 }
-.overflow{
-    width: 500px;
-    height: 200px;
-    border: 1px solid green;
-    overflow-y:scroll ;
+
+span {
+    background-color: aqua;
+}
+
+.float {
+    clear: both;
 }
